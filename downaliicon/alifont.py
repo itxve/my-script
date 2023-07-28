@@ -4,8 +4,8 @@ import requests, os, time, datetime, platform
 # @ctoken    xhr接口获取
 # @cid       https://www.iconfont.cn/collections/detail?&cid=45417
 
-CTOKEN = "VgSZj3K7VhsTXC3LAkvFPNqN"
-Cookie = "cna=DAgsHeUClT8CAXrncHD9+Q8R; locale=zh-cn; u=5894601; u.sig=eakV0Mcm4a_4u3ffvWC78ZuGN7KnmwV08aTIrJ4xweo; xlly_s=1; ctoken=VgSZj3K7VhsTXC3LAkvFPNqN; EGG_SESS_ICONFONT=Hu68kBY7XO7C6Udp3T99M1asKmUZ0gxjps8xjTrjx4ZtNCIR_nFu9Li15nxoPAWLXfFm3FTK5uTUW_7F7i0Y0KZBFkAwajV2DddSsyWipXFLnPrdkfPQRXupQef3gppMY-oMxKoNdCebauGYz5Xpr2OAudXaOYi3g2poPBMBNXE7XInBPXpXaUNnk5HAbjbUQqSrWmPMiWJZlG2u7BtKntYQDhEP2lOYIwO3BvHJRgkWcUKiVUX3s725J9BonVmm9KQXV-uOFE6Zeoag85mc54q7Ddx6MjxkM_8DYGclpug=; isg=BMLCu33IEl7mZAhDBO4atoe3E84kk8atoFkBuQzbXzXnX2PZ9SIGvARZD1sjDz5F"
+CTOKEN = ""
+Cookie = ""
 headers = {"Referer": "https://www.iconfont.cn/", "Cookie": Cookie}
 
 
